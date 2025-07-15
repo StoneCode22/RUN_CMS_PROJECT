@@ -1,3 +1,4 @@
+{{-- This is the layout file --}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
