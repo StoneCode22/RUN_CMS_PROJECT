@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+require '../public/index.php';
